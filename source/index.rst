@@ -8,10 +8,9 @@ Welcome to Doku's documentation!
 
 .. toctree::
    CheatSheets/CheatSheets
+   Hauskreis/Hauskreis
    :maxdepth: 2
    :caption: Contents:
-
-
 
 Indices and tables
 ==================
